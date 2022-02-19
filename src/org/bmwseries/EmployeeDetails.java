@@ -16,6 +16,8 @@ public class EmployeeDetails {
 		System.out.println(empGender);
 		String empCity = "Trichy";
 		System.out.println(empCity);
+		String empState = "Tamilnadu";
+		System.out.println(empState);
 		
 		System.out.println("Salary is"+empSalary);
 		System.out.println(empName+empGender);
